@@ -47,3 +47,4 @@ jobs:
         with:
           name: firmware
           path: bt60.uf2
+          
